@@ -67,7 +67,7 @@ In this question, the mistake we only did is that we started with `1` instead of
 
 We will proove that our answer increasing the Model answer by one. For all steps. And we did not made a step wrongly.
 
- 
+ ![image](./Images/q4-dispute-3-proof.png)
 
 
 
