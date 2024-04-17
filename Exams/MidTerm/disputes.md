@@ -1,5 +1,7 @@
 
-## Question (3)
+First of all, Thanks A lot Doctor May for Opening a way to Dispute Exam Marks. I will try to show my thoughts as clearly as I can. and I am OK with the final result whatever it is. 
+
+## Question (3) A)
 
 According to the Answer:
 
@@ -46,3 +48,27 @@ This is what we meaned by my the sentence.
 
 We started the instruction after its prev finished writing, but after execute, which ends up having total number of steps 19 instead of 17.
 
+## Question 3) B)
+
+This question is by 4 Marks, and I got only 2. I think there are some things unclear in the paper so I cleared it in the following Images.
+
+The Answer comes at the bottom of the page of the prev Question `Q3)A)`.
+
+![image](./Images/q3-dispute-2-proof.png)
+
+![image](./Images/q3-dispute-3-proof.png)
+
+
+If the answer can be remarked again, I will be grateful.
+
+## Question 4)
+
+In this question, the mistake we only did is that we started with `1` instead of `0`. The Doctor realised this, but Some steps marked wrongly and it is correct if we just started correctly.
+
+We will proove that our answer increasing the Model answer by one. For all steps. And we did not made a step wrongly.
+
+ 
+
+
+
+ 
